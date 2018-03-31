@@ -1,0 +1,5 @@
+method accountlogin(username, password)
+{
+	if(username="may" && password="uri")
+		return true;
+}
