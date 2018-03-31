@@ -1,0 +1,3 @@
+function logout(username){
+	logout username;
+}
